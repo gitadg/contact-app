@@ -1,0 +1,27 @@
+.app {
+  margin: 0 auto !important;
+}
+
+.header {
+  width: 50% !important;
+  justify-content: left !important;
+  margin: 0 auto !important;
+  display: flex !important;
+}
+.title {
+  font-size: 2.2em !important;
+}
+
+.navbar-nav .nav-link {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 60px;
+  line-height: 60px;
+  padding-left: 1.1em !important;
+}
+.container {
+  width: 50% !important;
+  justify-content: left !important;
+  margin: 0 auto !important;
+  padding: 1% 0;
+}
